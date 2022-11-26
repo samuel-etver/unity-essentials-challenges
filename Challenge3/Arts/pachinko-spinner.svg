@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="pachinko-spinner.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.89263468"
+     inkscape:cx="56.013956"
+     inkscape:cy="500.76477"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1639"
+       x="-0.065113911"
+       y="-0.065113911"
+       width="1.1302278"
+       height="1.1302278">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11367927"
+         id="feGaussianBlur1641" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1643"
+       x="-0.01595128"
+       y="-0.01595128"
+       width="1.0319026"
+       height="1.0319026">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.14625546"
+         id="feGaussianBlur1645" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1647"
+       x="-0.0095933561"
+       y="-0.0095933561"
+       width="1.0191867"
+       height="1.0191867">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11979625"
+         id="feGaussianBlur1649" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1651"
+       x="-0.0081384081"
+       y="-0.0081384081"
+       width="1.0162768"
+       height="1.0162768">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11868512"
+         id="feGaussianBlur1653" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1659"
+       x="-0.049136054"
+       y="-0.049136054"
+       width="1.0982721"
+       height="1.0982721">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.71656747"
+         id="feGaussianBlur1657" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1676"
+       transform="matrix(0.73782598,0,0,0.73782598,-18.774764,-32.610406)"
+       inkscape:export-filename="g1676.png"
+       inkscape:export-xdpi="114.63356"
+       inkscape:export-ydpi="114.63356">
+      <circle
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.251961;filter:url(#filter1659)"
+         id="circle1655"
+         cx="58.40419"
+         cy="72.335327"
+         r="17.5" />
+      <circle
+         style="fill:#6b6f9d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.251961;filter:url(#filter1651)"
+         id="path788"
+         cx="58.40419"
+         cy="72.335327"
+         r="17.5" />
+      <circle
+         style="fill:#b9d2d4;fill-opacity:1;fill-rule:evenodd;stroke-width:0.215749;filter:url(#filter1647)"
+         id="circle1633"
+         cx="58.40419"
+         cy="72.335327"
+         r="14.984901" />
+      <circle
+         style="fill:#848e9f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.158414;filter:url(#filter1643)"
+         id="circle1635"
+         cx="58.40419"
+         cy="72.335327"
+         r="11.002663" />
+      <circle
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0301637;filter:url(#filter1639)"
+         id="circle1637"
+         cx="58.40419"
+         cy="72.335327"
+         r="2.0950227"
+         transform="matrix(1.3983195,0,0,1.3983195,-23.263526,-28.812569)" />
+    </g>
+  </g>
+</svg>

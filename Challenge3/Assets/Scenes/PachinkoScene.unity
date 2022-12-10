@@ -187,6 +187,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 4
@@ -265,6 +269,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 1
@@ -343,6 +351,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 8
@@ -431,6 +443,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 10
@@ -606,6 +622,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 11
@@ -689,6 +709,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 5
@@ -885,6 +909,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 3
@@ -1021,6 +1049,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 9
@@ -1104,6 +1136,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 12
@@ -1182,6 +1218,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 16
@@ -1260,6 +1300,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 15
@@ -1422,6 +1466,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 7
@@ -1500,6 +1548,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 13
@@ -1639,6 +1691,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 2
@@ -2028,6 +2084,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 6
@@ -2106,6 +2166,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2014387442}
     m_Modifications:
+    - target: {fileID: 111419241426131249, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 111419241426131251, guid: 9a064c9c886065a48aff195f3f0f33fc, type: 3}
       propertyPath: m_Name
       value: Spinner 14

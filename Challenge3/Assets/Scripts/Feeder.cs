@@ -29,8 +29,9 @@ public class Feeder : MonoBehaviour
             var index = Random.Range(0, n);
             var fruitPrefab = FruitsList[index];
             Vector3 fruitPosition = transform.TransformPoint(Vector3.zero);
-            var fruit = Instantiate(fruitPrefab);
-            fruit.transform.position = fruitPosition;
+            var fruit = Instantiate(fruitPrefab, fruitPosition, Quaternion.Euler(0f, 0f, Random.Range(0f, 360f)));
+            var fruitScale = 0.08f;
+            fruit.transform.localScale -= new Vector3(fruitScale, fruitScale, fruitScale);
         }
     }
 }

@@ -7,15 +7,17 @@ public class Feeder : MonoBehaviour
 {
     public List<GameObject> FruitsList;
 
-    void Start()
+    private IEnumerator _feedCoroutine;
+
+
+    private void Start()
     {
-        StartCoroutine(Feed());
+        _feedCoroutine = Feed();
+        StartCoroutine(_feedCoroutine);
+
+        GameDurationTimer.GameEnd += OnGameEnd;
     }
 
-    void Update()
-    {
-
-    }
 
     private IEnumerator Feed()
     {
@@ -31,5 +33,12 @@ public class Feeder : MonoBehaviour
             var fruitScale = 0.08f;
             fruit.transform.localScale -= new Vector3(fruitScale, fruitScale, fruitScale);
         }
+    }
+
+
+    private void OnGameEnd()
+    {
+        StopCoroutine(_feedCoroutine);
+        Debug.Log("FEEDER");
     }
 }

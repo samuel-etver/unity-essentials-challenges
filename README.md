@@ -12,3 +12,6 @@
 * Add a RigidBody 2D Component to Sprites.
 * Add a Collider Component to Sprites.
 * Playtest a game in the Game view.
+
+![](Screenshots/challenge3-screenshot1.png)  
+  

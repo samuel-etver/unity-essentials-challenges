@@ -39,6 +39,12 @@ public class Feeder : MonoBehaviour
     private void OnGameEnd()
     {
         StopCoroutine(_feedCoroutine);
-        Debug.Log("FEEDER");
+        GameDurationTimer.GameEnd -= OnGameEnd;
+    }
+
+
+    private void OnDestroy()
+    {
+        GameDurationTimer.GameEnd -= OnGameEnd;
     }
 }

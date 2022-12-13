@@ -18,7 +18,6 @@ public class GameDurationTimer : MonoBehaviour
     private IEnumerator Wait()
     {
         yield return new WaitForSeconds(Duration);
-        Debug.Log("Duration expired");
         GameEnd();
     }
 }

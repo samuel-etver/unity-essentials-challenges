@@ -1,8 +1,22 @@
 # unity-essentials-challenges
 
+## Challenge 2
+
+### Project Objective
+
+####  Customize the ways GameObjects behave
+
+* Create a new script component 
+* Understand the purpose of the default code generated within a newly created C# script 
+* Print a message to the Unity Editor console using a simple script
+* Change a GameObject using a simple script 
+* Explain the relationship between scripts and components 
+
 ## Challenge 3
 
-### Create a pachinko-style interaction using Sprites<b>
+### Project Objective
+
+#### Create a pachinko-style interaction using Sprites
 
 * Create a new 2D Scene.
 * Create new Sprites.

@@ -1,10 +1,9 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Plank2Rotation : MonoBehaviour
 {
     public float SpeedFactor = 50.0f;
+
 
     private void Start()
     {

@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 662922710}
   - component: {fileID: 662922709}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: Plank 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -175,7 +175,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: dd36addf745d64841a6670c0977748a4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -411,7 +411,7 @@ GameObject:
   - component: {fileID: 1362007940}
   - component: {fileID: 1362007939}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Plank 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -450,7 +450,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: dd36addf745d64841a6670c0977748a4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -508,7 +508,7 @@ GameObject:
   - component: {fileID: 2050595664}
   - component: {fileID: 2050595663}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: Plank 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -547,7 +547,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: af71c9f42cef17a479ae689e5c8c4f65, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

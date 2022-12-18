@@ -1,5 +1,21 @@
 # unity-essentials-challenges
 
+## Challenge 1
+
+### Project Objective
+
+#### Explore the 3D capabilities and features of Unity
+
+* Create a new 3D project.
+* Create 3D objects in the Unity Editor.
+* Move, scale, and rotate objects in 3D space.
+* Control the properties and behaviors of 3D objects using components.
+* Create and apply a material to a 3D object.
+* Adjust the Directional Light in a 3D Scene.
+* Manage GameObjects with prefabs, prefab variants, and nested prefabs
+* Find and import 3D assets from the Unity Asset Store.
+* Publish a 3D project.
+
 ## Challenge 2
 
 ### Project Objective

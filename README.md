@@ -12,6 +12,9 @@
 * Change a GameObject using a simple script 
 * Explain the relationship between scripts and components 
 
+![](Screenshots/challenge2-screenshot1.png)  
+
+
 ## Challenge 3
 
 ### Project Objective

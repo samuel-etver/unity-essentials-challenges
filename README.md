@@ -16,6 +16,8 @@
 * Find and import 3D assets from the Unity Asset Store.
 * Publish a 3D project.
 
+![](Screenshots/challenge1-screenshot1.png)  
+
 ## Challenge 2
 
 ### Project Objective

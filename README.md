@@ -55,6 +55,14 @@
 
 Used "Foundations of Audio" asset of Unity Technologies under Standard Unity Asset Store EULA 
 
+### Project Objective
+
+#### Explore and experiment with audio in Unity
+
+* Define the role of an Audio Source, an Audio Clip, and an Audio Listener in a Scene.
+* Implement audio that appears to come from a particular point in 3D space (e.g. localized sound effects) and audio that appears to come from no place in particular (e.g. background music).
+* Configure the rolloff of an Audio Source in order to control how its volume changes with distance (e.g. logarithmic, linear, or custom).
+* Programmatically play, pause, and stop sounds from a script in order to control audio effects based on certain events. 
   
 ![](Screenshots/challenge4-screenshot1.png)  
 
